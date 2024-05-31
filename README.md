@@ -32,4 +32,4 @@ I'm a Full-Stack Engineer with a strong product mindset cultivated by engaging w
 ## Get in Touch 📬
 
 - **[Personal Website](https://erlantz-cabrejas.github.io/)**
-- **[LinkedIn](www.linkedin.com/in/erlantz-cabrejas-garcía-78a0a3139)**
+- **[LinkedIn](www.linkedin.com/in/erlantz-cabrejas-garcía-78a0a3139/)**
